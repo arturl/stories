@@ -30,7 +30,7 @@ He was coiling the hose when he heard someone behind him on the dock.
 
 "Tours are done for today," he said, without turning.
 
-"I know. I missed it."
+"I know. I was on it, actually. I had headphones in and kind of zoned out and by the time I looked up we were back at the dock." A pause. "I missed the whole thing."
 
 He turned. The woman from the rail. Up close she was striking in a way he hadn't fully registered from the helm - the red hair, very pale skin, something still and watchful in the way she stood.
 
@@ -46,7 +46,7 @@ He turned. The woman from the rail. Up close she was striking in a way he hadn't
 
 She looked at him for a moment - steady, not embarrassed. "Okay." She turned and walked back up the dock.
 
-He watched her go. He thought: she wasn't watching with headphones in. I was looking at her for forty-five minutes and she had no headphones. [Artur: why headphones? Where is the connection? Explain or remove]
+He watched her go. He thought: she had no headphones. I watched her for forty-five minutes. She was watching the water the entire time.
 
 He went back to the hose.
 
@@ -72,7 +72,7 @@ She told him.
 
 He took her south along the river as the sky went orange, cutting the engine at the bend and letting them drift.
 
-"You wanted a tour," he said. "This is the building I'd have given you." [Artur: I don't like "I'd have given you" - reword. This is the building he want to show her, say it plainly]
+"There's a building I want you to see," he said.
 
 150 North Riverside rose ahead of them - or rather, it didn't rise so much as *float*, the tower widening as it climbed, enormous above a base that from the water looked impossibly, almost comically narrow.
 
@@ -90,11 +90,13 @@ He waited a beat. Old tour habit.
 
 She was quiet for a moment. Then: "You miss it."
 
-"What?"
+"Miss what?"
 
-"Architecture." She said it simply. "You miss it."
+"Whatever this is. For you." She gestured vaguely at the building, at the city, at him. "The way you talk about it."
 
-He looked at her. Then he started the engine.
+He looked at her. "Architecture," he said. "I studied it. Dropped out."
+
+She nodded, like she'd already guessed the shape of it. He started the engine.
 
 ---
 
@@ -108,9 +110,9 @@ On the ride back he talked about the neighborhood where he'd grown up. He wasn't
 
 "Why Ukrainian Village?"
 
-He thought about it. "Wanted to try on a different version of myself." A pause. "It mostly worked."
+He thought about it. "Wanted to try on a different version of myself." A pause. "It mostly worked. I still go back most Fridays - my mom goes to the mosque, and I go with her, and she makes lunch after." He paused. "I've never missed it."
 
-She looked out at the water. "Are you religious?"
+She looked at him. "So you're religious."
 
 He thought about it. "Sometimes."
 
@@ -124,7 +126,7 @@ Then she said: "My brother wanted to be a priest." It came out unprompted, and s
 
 Omar didn't say he was sorry. He'd learned early that *I'm sorry* was mostly for the person saying it. He let it sit.
 
-After a while she said: "I'm in medical school. Northwestern."
+After a while she said: "I'm in medical school."
 
 "Is that because of him?"
 
@@ -282,7 +284,7 @@ He was in love with her. Or something that functioned like love - he hadn't had 
 
 It happened on a Tuesday. He arrived at the Riverwalk to meet her and she was already there, back turned, on her phone. Speaking low, with the clipped tone of someone ending an argument rather than starting one. She said a name: *Danny.*
 
-She hung up and turned and saw him standing there.
+She hung up and turned and saw him standing there. From his expression she could tell he'd been there long enough.
 
 "Who was that?" he said.
 
@@ -290,7 +292,9 @@ She hung up and turned and saw him standing there.
 
 "A friend?"
 
-The pause was its own answer. She held his gaze - she didn't look away, which was almost worse. "He's someone I've known a long time. We grew up together." A beat. "He's my boyfriend."
+She started to say yes. But she'd turned around and seen his face. He'd been standing there long enough. The lie would have been too thin, and they both knew it. She stopped.
+
+"He's someone I've known a long time. We grew up together." A beat. "He's my boyfriend."
 
 The river went past. Somewhere behind him a tour boat was running - he could hear a guide's voice carrying across the water, describing a building he knew by heart.
 
@@ -318,13 +322,11 @@ Scrubs.
 
 He opened his phone.
 
-He wasn't a detective. But he was a man who'd memorized the structural logic of fifty buildings, who read a city the way other people read faces. He pulled threads quietly. She was at Feinberg. He searched the faculty directory, then staff listings, then broader - department pages, university forums. He found what he found: a professor of anatomy, late fifties, who hadn't shown up for his classes in over a week. A note on a department forum, a colleague asking if anyone had heard from Alderman, a welfare check filed. No news article yet. Just an absence.
+He wasn't a detective. But he was a man who'd memorized the structural logic of fifty buildings, who read a city the way other people read faces. He pulled threads quietly. She was at Feinberg. He searched the faculty directory, then staff listings, then broader - department pages, university forums. He found what he found: a clinical faculty member, late fifties, who hadn't shown up for his teaching sessions in over a week. A note on a department forum, a colleague asking if anyone had heard from Alderman, a welfare check filed. No news article yet. Just an absence.
 
 He looked at the photograph for a long time. Middle-aged, kind-looking. Not the face of anything.
 
 Over the next two days he asked quiet questions around the med school - carefully, at the edges. A student he'd met briefly when he showed up unannounced. A barista in the ground-floor café who seemed to know the entire building. The rumors reached him: the professor and a student. Some kind of attachment. Nobody knew exactly what. Enough for whispers.
-
-A news item on his phone one evening: a man reported missing, South Side. He read it between tours, sitting on the boat. He almost connected it. He did not.
 
 He had enough. He called her.
 
@@ -354,13 +356,15 @@ Professor Alderman had been the family's doctor since she was a child - her brot
 
 "I let it go on longer than I should have." Her jaw was tight. "He knew things about my brother that I needed someone to know. I couldn't just push that away." She looked at the water. "It was never physical. I need you to know that. But I know how it looked."
 
-Danny had found out. Danny had gone to the professor's apartment one night, high, out of his mind with jealousy. There had been a fight.
+Danny had found out. Danny had gone to the professor's apartment one night, high, out of his mind with jealousy. She'd known his state of mind. She'd known where he was going. She hadn't called to warn anyone.
+
+She was there when it happened.
 
 "Is Alderman dead," Omar said.
 
 She didn't answer for a moment. Then: yes.
 
-She'd got there afterward. Danny was already gone - she'd called him a cab, told him to go, and he'd gone because he was scared, and she'd been the one to clean the apartment and figure out what had to disappear.
+She'd watched it happen - not able to stop it, not moving fast enough, or not moving at all, she still wasn't sure which. When it was over she was the one who told Danny to go. She called him a cab. She waited until she heard it pull away and then she stayed there alone with what was in the room and made herself decide. She could call for help. Maybe he wasn't gone yet. Maybe. She didn't call. She cleaned the apartment and figured out what had to disappear.
 
 "Why?" Omar said. "Why protect him?"
 
@@ -424,7 +428,7 @@ He hung up.
 
 He went to the river first.
 
-He locked the boat and walked the Riverwalk to the spot near the Michigan Avenue Bridge and stood there for a long time. The city was lit on both banks. He could name every building without looking — their heights, their architects, their structural secrets. 150 North Riverside floating above its impossible base. Marina City, the twin cylinders rising from the water, which someone had once told him looked like corncobs and he'd laughed because they looked nothing like corncobs and everything like what the future was supposed to look like. The Wrigley Building white against the dark.
+He locked the boat and walked the Riverwalk to the spot near the Michigan Avenue Bridge and stood there for a long time. The city was lit on both banks. He could name every building without looking — their heights, their architects, their structural secrets. 150 North Riverside floating above its impossible base. Marina City, the twin cylinders everyone in Chicago calls the Corn Cobs, which he'd always thought looked nothing like corncobs and everything like what the future was supposed to look like. The Wrigley Building white against the dark.
 
 He had given this tour hundreds of times. He would not give it again.
 
