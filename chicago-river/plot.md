@@ -100,6 +100,8 @@ They talk for hours. She is different here - less managed, more present. She ask
 
 *[Description: she is sitting cross-legged on his couch, shoes off, her red hair loose now - earlier it had been tied back. It catches the lamplight. She is slender, still, with the particular ease of someone comfortable inside their own body. Pale skin - the kind that shows everything, a flush at the throat when she laughs at something he says. He notices this and looks away. He is not good at concealing things.]*
 
+At some point he says her hair is beautiful - not as a line, just a true thing said out loud. She laughs and waves it off: *oh, the Irish thing.* He asks what she means. *Red hair, pale, freckles in summer - very on the nose, right?* She says it lightly, almost self-mocking. He doesn't pursue it. The reader notes it. Much later, when her full name and background surface in court documents or a police report, the *oh* moment arrives: Nora Callery. Of course.
+
 At some point the talking stops.
 
 *[Scene: PG-13. The city outside the window. He reaches over and dims the lamp. Her hair dark red against the white of the pillow. The particular smoothness of her shoulder, her arm. He is careful, almost tentative. She is not. The reader understands what happens and is not shown it.]*
@@ -172,6 +174,8 @@ He looks at her. *A friend?*
 
 The pause is its own answer. She holds his gaze - she doesn't look away, which is almost worse. *He's someone I've known a long time. We grew up together.* A beat. *He's my boyfriend.*
 
+When Omar asks if she's alright - meaning, with Danny, with the situation - she says yes, reflexively, and then doesn't say anything. He looks at her. She looks away. He files this and doesn't push. Later, during the confrontation in Act 4, she will tell him that Danny was sometimes rough with her. Sometimes very much so.
+
 Omar is quiet for a moment. The river moves. Somewhere behind him a tour boat passes, a voice carrying across the water describing a building he knows by heart.
 
 *How long,* he says.
@@ -206,7 +210,7 @@ He meets her on the Riverwalk, away from the docks, neutral ground. He lays out 
 
 She goes very still. The mask - the composure she has carried through every scene in this story - comes off. Underneath it she is frightened and exhausted and something else, something that looks like relief. She tells him everything.
 
-*[What she tells him: Professor Alderman, anatomy faculty, was in love with her. It was not mutual - or not fully, not physically - but she had let it go on longer than she should have, the attention, the mentorship, the proximity. Danny found out. Danny came to the professor's apartment one night when he was high and out of his mind with jealousy. There was a fight. It went too far. She got there afterward. She was the one who called Danny a cab, cleaned the apartment, figured out what had to disappear. She protected him. She is not sure why anymore.]*
+*[What she tells him: Professor Alderman was the family's doctor - he had been her brother's pediatrician since they were small, knew the whole Callery family, was one of the fixtures of their South Side life. When her brother died, Alderman was one of the people who showed up. He stayed in touch with Nora afterward, encouraged her toward medicine, helped her apply to Feinberg, wrote her recommendation. She trusted him the way you trust someone who has known you since you were a child. Over time his attention became something else - love, or what he called it. It was not mutual, or not fully, not physically - but she had let it go on longer than she should have, out of grief and obligation and the difficulty of rejecting someone who had known her brother, who remembered him as a boy. Danny found out. Danny came to the professor's apartment one night when he was high and out of his mind with jealousy. There was a fight. It went too far. She got there afterward. She was the one who called Danny a cab, cleaned the apartment, figured out what had to disappear. She protected him. She is not sure why anymore.]*
 
 **Did you use me.** Not a question - a statement. He says it quietly.
 
@@ -228,7 +232,9 @@ He knows about Danny Moran before Nora said the name. He'd already searched it a
 
 Danny is at the bar. He is bigger than Omar expected - wide through the shoulders, thick neck, the gone-to-seed physicality of someone who was once athletic and stopped. He has the slow, careful stillness of someone who is managing a chemical equation inside himself. His eyes find Omar almost immediately. He knows who he is.
 
-*[Danny Moran: grew up two streets from Nora on the South Side. They were together since sixteen. He is twenty-nine now and has been using opioids for three years - started with a back injury, a prescription, the usual story. He loves Nora in the only way he knows how, which is completely and badly. He killed the professor because he could not stop himself. He has not stopped being scared since.]*
+*[Danny Moran: grew up two streets from Nora on the South Side. They were together since sixteen. He is twenty-nine now and has been using opioids for three years - started with a back injury, a prescription, the usual story. He loves Nora in the only way he knows how, which is completely and badly. He has a prior record - a bar fight at twenty-four, a domestic disturbance call that Nora declined to pursue. He killed the professor because he could not stop himself. He has not stopped being scared since.]*
+
+*[The witness: a man drinking alone near the pub entrance saw Omar follow Danny outside. He later tells police he saw "a Middle Eastern man" start the argument. This description reaches Kowalski within hours and ties the pub incident to the name he already has from the docks.]*
 
 They don't speak at the bar. Danny finishes his drink, leaves money on the counter, walks toward the door. Omar follows him outside.
 
@@ -316,15 +322,31 @@ He does not run. He turns toward them.
 
 **The call.** Three weeks in - he has barely found his footing in the place - a Thursday afternoon, he is called to the phone. He picks it up. There is a slight delay on the line - international. She found a way to call as soon as she could. He can hear something warm in the background. Wind, maybe. Birds.
 
-She says his name. *Omar.* The way she said it on the Riverwalk. He sits down.
+She says his name. *Omar.* He sits down.
 
-She doesn't explain where she is. He doesn't ask. She says: *I wanted you to know I'm alright.* A pause. *I wanted to say that I'm sorry. I wanted to say the other thing too, but I don't think I have the right anymore.*
+Then everything at once - not composed, not the Nora the story has known: *I'm alright, I'm safe, I wanted you to know that first - I wanted to call sooner but I couldn't find a way - I'm so sorry, Omar, I'm sorry for all of it, I think about it every day, I think about you -*
 
-He is quiet for a long time.
+He lets her talk.
+
+*Are you drawing?* she asks suddenly - the question arriving sideways, in the middle of everything else, as if it has been waiting since before she dialed.
+
+*Yes.*
+
+She exhales. Three weeks of something releasing in it. *Good. That's - good.* Then: *I had all these things I was going to say and now I can't - I don't know what - I just needed you to know I'm sorry, and that you weren't just - you weren't - I don't know how to -*
+
+*Nora.*
+
+She stops.
 
 *I know,* he says.
 
-The call ends. He sits for a while longer with the phone in his hand. Through the narrow window above the table he can see a strip of sky - pale, midwestern, winter-flat. Somewhere south of that, or east, or west, she is standing in sunlight.
+A silence. Long enough that he can hear wind wherever she is. Something warm in it.
+
+*I should let you go,* she says. She doesn't move to hang up.
+
+*Yeah,* he says. Neither does he.
+
+*[The call ends eventually. He sits for a while with the phone in his hand. Through the narrow window above the table he can see a strip of sky - pale, midwestern, winter-flat. Somewhere south of that, or east, or west, she is standing in the wind.]*
 
 He gets up and goes back to his cell. He opens the notebook. He draws.
 
@@ -345,5 +367,3 @@ He gets up and goes back to his cell. He opens the notebook. He draws.
 Literary noir. The city is a character. The river is a character. Prose should be precise and sensory - the smell of the water, the sound of the tour script, the weight of the bag. The darkness earns itself slowly.
 
 ---
-
-*[Culmination and resolution to be developed collaboratively.]*
