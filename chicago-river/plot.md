@@ -10,12 +10,15 @@ Noir thriller / literary fiction
 ### Omar Al-Rashidi
 - 27 years old
 - Born in Baghdad, emigrated with his mother after the 2003 US invasion
+- His father was killed by Baath loyalists in spring 2003 - shot in a Baghdad street for cooperating with Americans. Omar was four years old and witnessed it. He has never spoken about it to anyone. The memory surfaces in fragments: the sound first, always the sound. Then light, very bright. The color of his father's shirt.
+- His father's last prophecy, as told by his mother: the day Omar was born, his father held him and said *habibi, this one will build things.* Omar does not know this until the night he leaves Chicago.
+- He grew up beside the Tigris - wide, brown, the color of weak tea in summer. Chicago's river became the second river of his life. He lost the first one first.
 - Studied architecture at UIC, dropped out (financial reasons / family obligations)
 - Works as a riverboat tour guide on the Chicago Architecture Foundation river cruise
 - Deeply knowledgeable about Chicago's buildings - architecture is his passion and his grief (what he lost)
 - Muslim, navigating identity between his Iraqi roots, his mother's world, and the American city he's grown up in
 - Gentle, observant, quietly romantic
-- Trains at a boxing gym in Albany Park - not competitive, but serious. His trainer once said he had the best hook in the room. The gym is the one place where he is just Omar, no qualifier, no accent, no history.
+- Trains at a boxing gym in Albany Park - not competitive, but serious. His trainer once said he had the best hook in the room. The gym is the one place where he is just Omar, no qualifier, no accent, no history. The anger that brought him there at sixteen has been building since he was four years old.
 
 ### Nora Callery
 - Mid-20s, Irish-American

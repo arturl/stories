@@ -26,6 +26,8 @@ Two evenings a week he had somewhere to be: a boxing gym in Albany Park, three b
 
 Omar hadn't hit anyone in four years. He kept going anyway. In the gym there was no qualifier after his name. He was just the guy with the hook. That was enough.
 
+He had needed somewhere to put the anger since he was four years old. The gym was the first place that had worked.
+
 He was coiling the hose when he heard someone behind him on the dock.
 
 "Tours are done for today," he said, without turning.
@@ -71,6 +73,8 @@ She told him.
 ## II.
 
 He took her south along the river as the sky went orange, cutting the engine at the bend and letting them drift.
+
+For a moment, just the water. He had grown up beside another river — the Tigris, wide and brown, the color of weak tea in summer. He was four years old the last time he stood at its edge. He remembered his father's hand around his. The smell of the water, silty and warm. Nothing else had survived intact.
 
 "There's a building I want you to see," he said.
 
@@ -450,7 +454,9 @@ She was quiet. Then: "Habibi." Just that, first. The way she'd said it his whole
 
 He put his hand over hers.
 
-She tried to find the English. It didn't come easily for the things that mattered. "I come here" — she started again — "I bring you here. So you are safe. This country." Her voice didn't break. It just got smaller. "I think — inshallah, he will be safe here. He will build things." She looked at their hands on the table. "Habibi. Allah yihmeek."
+She tried to find the English. It didn't come easily for the things that mattered. "I come here" — she started again — "I bring you here. So you are safe. This country." Her voice didn't break. It just got smaller. "Your father said it. When they brought you home — he held you, and he said: *habibi, this one will build things.* Like he already knew." She looked at their hands on the table. "I think about it every day. Habibi. Allah yihmeek."
+
+For a moment Omar was somewhere else — a Baghdad street, a Thursday in April. The sound came first, the way it always did when the memory surfaced: automatic fire, a full burst, very close. Then his father going down — not falling the way things fall, but folding, a sudden subtraction of what had been holding him upright. Then light, very bright. The color of his father's shirt. He had been four years old. He had never told anyone what he saw that afternoon.
 
 He didn't tell her she hadn't wasted her prayers. He didn't tell her anything. He held her hand.
 
@@ -532,6 +538,8 @@ He drew.
 
 ---
 
-*The Chicago River runs backward. It has run backward for a hundred and twenty-five years. If you didn't know, you'd never guess — it looks like any other river, moving through the city, going somewhere. You have to know the history to understand the direction.*
+*He had grown up beside another river. He had lost that one first.*
+
+*The Chicago River runs backward. It has run backward for a hundred and twenty-six years. If you didn't know, you'd never guess — it looks like any other river, moving through the city, going somewhere. You have to know the history to understand the direction.*
 
 *Omar knew the history.*
