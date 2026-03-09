@@ -6,59 +6,65 @@ A running list of open plot and character questions to be resolved as the story 
 
 ## Plot
 
-**The victim**
-- Who did Nora kill - or did she? Could someone else be responsible and she is covering for them?
-- Who is the victim? What is their connection to Nora?
-- How was the body disposed of before she found Omar? Where is it now?
-- Is the victim connected to Nora's brother's death in some way?
+**The victim - Professor Alderman**
+- Full name and department confirmed: anatomy faculty, Northwestern Feinberg. First name TBD.
+- His feelings for Nora: one-sided love, or was there genuine mutual attachment that she allowed to develop?
+- Where is his body? How did Nora (or Danny) dispose of it before Omar enters the picture?
+- Does the body surface during the story, or does it remain missing through the end?
 
-**The detective**
-- Is the detective corrupt (connected to whoever Nora is running from) or legitimate?
-- How did he get onto Omar specifically?
-- What does he actually know vs. suspect when he confronts Omar on the boat?
+**Danny Moran**
+- His drug of choice confirmed as opioids (prescription turned dependency).
+- Did he have a prior record of violence? Probably yes - useful for the trial.
+- Does anyone come looking for him after he dies? Family? Friends? This could add pressure to Act 6.
 
-**The cop killing**
-- What are the exact circumstances that make it feel inevitable rather than chosen?
-- Is there a moment where Omar could walk away and consciously does not? (Recommended: yes - makes it tragic rather than accidental)
+**Detective Kowalski**
+- First name TBD.
+- How does he piece together Omar's connection? Cell tower data confirmed as the first thread.
+- Does he ever figure out Nora's full role, or does Omar's arrest close the case from his perspective?
+- Is he present at SeaTac, or does he learn about the arrest after the fact?
 
-**The escalation favors**
-- What specifically does Nora ask Omar to do between the bag disposal and the cop confrontation?
-- How many steps, and how do they escalate in seriousness?
+**The escalation favors (Act 3)**
+- Currently vague: "a name she needs looked up, a time he needs to be somewhere, a package she needs him to hold."
+- Need to decide the specific asks - should feel increasingly compromising without crossing into melodrama.
 
-**The key** *(removed from plot - decision: no longer needed)*
+**The trial**
+- Does Omar have anyone in his corner beyond his lawyer? A friend, a colleague from the boat?
+- Does his mother attend? Almost certainly yes - one courtroom scene with her in the gallery could be devastating.
+- Does Nora testify or submit anything? She is gone, but her absence is itself a fact.
 
 ---
 
 ## Character
 
 **Nora**
-- Full backstory: who is she, what did she do, and why?
-- Does she genuinely develop feelings for Omar, or is the cafeteria scene still performance?
-- When does she know the detective is closing in?
-- What is her endgame - does she have an exit plan?
-- Her Irish Catholic background and the name "Nora Callery" - when and how is this revealed to feel like an "aha"?
+- The Irish reveal: when does the reader learn her full name is Nora Callery and what that means? Could land in the trial (her name read into the record, Omar's lawyer mentions her background) or in Act 4 confrontation.
+- Did she ever intend to feel something for Omar, or did that happen without her permission?
+- Where does she end up? Confirmed: somewhere warm, possibly Costa Rica. Does the story name it or leave it ambient?
 
-**Omar**
-- Does he ever tell his mother what has happened?
-- At what point does he fully understand what Nora has done and what he is implicated in?
-- Does his Muslim/Arab identity explicitly factor into how the police and justice system treat him once he is a suspect?
+**Omar's boxing**
+- MUST be planted in Act 1 or early Act 2. Suggested: mention of a boxing gym in Albany Park, his trainer. The hook. One specific detail to make it real.
+- Should be mentioned once more before Act 5 - not as foreshadowing, just as part of his life, so it doesn't feel invented for the plot.
 
----
-
-## Resolution (Act 5)
-
-- Does Omar turn himself in, run, or find a third way?
-- Is there a moral resolution or does the story end in deliberate ambiguity?
-- Does Nora survive? Does she face consequences?
-- What is the last image of the story?
+**Omar's mother**
+- Name TBD - Iraqi, probably a common name: Fatima, Zainab, Layla, Maryam. Decide before writing main.md.
+- Does she ever learn the full truth - what Omar did and why?
+- Her Arabic phrases in the goodbye scene are placeholders - verify accuracy with a native speaker before final draft.
 
 ---
 
-## Structural / Craft
+## Structure
 
-- The missing person news item: should the victim be named? Named early = more specific dread. Anonymous longer = more atmospheric.
-- Cell tower data from the victim's phone: could be the thread that ties Omar to the disposal. Worth making explicit in Act 4 so the detective's knowledge feels earned.
-- Omar's mother: she is mentioned but not yet on the page. Should she appear as a scene before the story turns dark, so the reader has something to lose alongside Omar?
+**SeaTac aircraft display**
+- Verify: is there a full-scale or large suspended aircraft in the main terminal at Seattle-Tacoma International Airport? The scene depends on this visual. Fact-check before writing main.md.
+
+**The Irish reveal**
+- "Nora" reads as American. "Callery" is Irish but not obvious. The reveal needs a moment - someone (a lawyer, a detective, a news report) says her full name and background in a context where Omar hears it and it clicks. Work out the exact scene.
+
+**The phone call ending**
+- "I wanted to say the other thing too, but I don't think I have the right anymore." - confirm this is the right register. Could be too writerly. Test in prose.
+
+**Pacing of Acts 6-7**
+- The escape arc (river, mother, O'Hare, flight, SeaTac) covers a lot of geography quickly. In main.md, each beat needs enough breath to land. The mother scene especially should not be rushed.
 
 ---
 
