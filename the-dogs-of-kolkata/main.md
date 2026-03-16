@@ -21,3 +21,13 @@ On the wall near the police station, a Muslim League poster. The paper is still 
 it without interest.
 
 The streets come to life in a few hours: kathi rolls, jhal muri and chai. Until then, only the smell of the river Hooghly, a mile west, reaches here. The air is stifling. The monsoon will not arrive for another week.
+
+A girl comes out of the courtyard with a rice bowl. Slender, pale skin. A white tunic, a scarf over her shoulders, sandals a bit too big for her feet.
+She leans forward and places the bowl on the ground. "Sharing your breakfast with the dogs again, Farah?" An older woman puts her hand on the girl's shoulder. "I'm not hungry, mother." "What kind of food is this for a dog, really? Let me see what else we have." 
+The woman goes inside the house and comes back with a plate. Chicken feet. 
+
+A young dog, tanned brown, comes closer. The woman stretches her hands out, inviting it to come closer, but the 
+dog keeps its distance. "Come!" says Farah, and the dog wags its tail, comes closer and starts eating. First, the chicken feet. The dog digs into the food, tossing its head up to swallow the pieces. It doesn't savor, just consumes. "This dog 
+likes you," says the woman. "It's the smallest of the pack, mom. Look at the scar on his thigh - this is another dog's bite."
+The dog eats fast. The chicken feet are gone, then the rice bowl is licked clean. It steps back a few feet, lingers. Will 
+there be more? "Time for school, Farah." The woman wraps her hand around the girl's shoulder. Both of them head back inside.
