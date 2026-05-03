@@ -81,6 +81,20 @@ the brothers themselves. Sticks. Torches. A bottle, a rag, a flame.
 - Nikhil turns and faces them. Fights.
 - The brothers hesitate. They let others throw the first punch.
   They don't stop it, don't join it. Men of their time, not pure evil.
+
+**The brother's argument — before the mob forms:**
+
+Not political. Personal and visceral — the way prejudice actually works.
+The cow: sacred to Hindus, slaughtered by Muslims.
+The dogs: Farah feeds them, transgressive in her own community.
+The brother's line, combining both into a single accusation:
+"They kill cows and feed them to the dogs."
+Almost true. Entirely unfair.
+
+This line lands harder on Nikhil because he has seen Farah feed the dogs.
+The brother takes the thing Nikhil loved about her and uses it as a weapon.
+He also invokes the mother, the family honor, the neighbors.
+He believes what he is saying. That is what makes him human, not a villain.
 - Farah sees it from the gate or window. Her mother whisks her away.
 - The house is torched.
 - Farah's family escapes to relatives. They will stay there until
