@@ -59,10 +59,54 @@ the question for 70 years. The reunion does not resolve it either.
 Farah and Nikhil are born, Kolkata. They grow up in the same neighborhood —
 integrated, mixed-faith, the Kolkata that still exists before it is broken.
 
-### 1946 — June
+### 1946 — April
 The opening scene. They are 15. Sutanuti, Chitpur Road.
 The dogs own the streets in the early morning.
 The city does not yet know what is coming.
+The rooftop scene.
+
+### 1946 — May: The Mob Scene
+
+**Scene outline — to be written by author**
+
+Nikhil has not seen Farah for weeks after the rooftop. Not seeing her
+is killing him. His brothers find out about Farah. A Muslim girl.
+They cannot stand it. They gather a mob — neighbors, friends,
+the brothers themselves. Sticks. Torches. A bottle, a rag, a flame.
+
+- Nikhil runs toward Farah's house. Bangs on the gate.
+- The dogs are on the street. They scatter when they see him —
+  his urgency registers with them before the mob arrives.
+- The mob catches up. Sees Nikhil at her gate.
+- Nikhil turns and faces them. Fights.
+- The brothers hesitate. They let others throw the first punch.
+  They don't stop it, don't join it. Men of their time, not pure evil.
+- Farah sees it from the gate or window. Her mother whisks her away.
+- The house is torched.
+- Farah's family escapes to relatives. They will stay there until
+  August when it becomes intolerable and they must leave.
+
+This scene establishes Nikhil's physical courage — decisive, ready
+to give his life. He stands against his own blood. The contrast with
+1971, when he chooses not to knock on her door, is the moral spine
+of his entire arc.
+
+The dogs return after the violence. They always return.
+
+**The hospital scene — their last scene in Calcutta**
+
+Nikhil is in hospital. Broken jaw, beaten badly. Barely able to speak.
+Farah visits — this is dangerous for her, barely safe.
+She should not be there. She comes anyway.
+
+He cannot say what he has never been able to say.
+She says it for him: "me too."
+He cannot answer. His jaw is broken. The silence is the beginning
+of a very long silence.
+
+After this they exchange messages but cannot meet — not safe.
+She leaves in August 1947. This is the last time they are
+in the same city for fifty years.
 
 ### 1946 — The Great Calcutta Killing (August 16)
 Still 15. The Muslim League's protest becomes a catastrophe.
